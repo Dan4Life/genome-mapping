@@ -1,0 +1,9 @@
+metric	value
+reads	22720100
+mapped	22246063
+mapped_pct	97.913579
+unique_pct_all	96.093107
+multi_pct_all	1.820472
+identity_pct	99.793282
+coverage_pct	99.037627
+mean_depth	479.270376
